@@ -5,23 +5,23 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [{ "label": "exkursion", "class": "" }],
+         "flags": [{ "label": "exkursion", "class": "st-warmGreyBg" }],
          "headline":"Schoolübergreifende Exkursion zur 58. Biennale nach Venedig „May you live in interesting times“"
       },
       {
          "id":"2",
          "url":"#",
-         "theme": "",
+         "theme": "st-blue",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [ { "label": "forschung", "class": "" }],
+         "flags": [ { "label": "forschung", "class": "st-background" }],
          "headline":"Wie sich New Work messen lässt"
       },
       {
          "id": "3",
          "url": "#",
-         "theme": "",
+         "theme": "st-orange",
          "showFlags": false,
          "headline": "Go Cyber, go Secure - 1. school Berlin Hackathon"
       },
@@ -48,23 +48,23 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [ { "label": "forschung", "class": "" }],
+         "flags": [ { "label": "forschung", "class": "st-warmGreyBg" }],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
       },
       {
          "id":"7",
          "url":"#",
-         "theme": "",
+         "theme": "st-orange",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
          "showFlags": "true",
-         "flags": [ { "label": "forschung", "class": "" }],
+         "flags": [ { "label": "forschung", "class": "st-background" }],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
       },
       {
          "id":"8",
          "url":"#",
-         "theme": "",
+         "theme": "st-blue",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": false,
@@ -77,13 +77,13 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [ { "label": "forschung", "class": "" }],
+         "flags": [ { "label": "forschung", "class": "st-warmGreyBg" }],
          "headline":"Wie Farben unsere Designentscheidungen beeinflussen"
       },
       {
          "id":"10",
          "url":"#",
-         "theme": "",
+         "theme": "st-orange",
          "showFlags": false,
          "headline":"Warum es sich lohnt, Kunden genau zu kennen und wie Algorithmen dabei helfen können"
       },
@@ -106,23 +106,17 @@
       {
          "id":"13",
          "url":"#",
-         "theme": "",
+         "theme": "st-blue",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
-         
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "karriere",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "karriere", "class": "st-background" }],
          "headline":"Gut vorbereitet für den Berufseinstieg"
       },
       {
          "id":"14",
          "url":"#",
-         "theme": "",
+         "theme": "st-orange",
          "showFlags": false,
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
       },
@@ -133,15 +127,15 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
          "showFlags": "true",
-         "flags": [ { "label": "forschung", "class": "" }],
+         "flags": [ { "label": "forschung", "class": "st-warmGreyBg" }],
          "headline":"EY meets school"
       },
       {
          "id":"16",
          "url":"#",
-         "theme": "",
+         "theme": "st-orange",
          "showFlags": "true",
-         "flags": [{ "label": "exkursion", "class": "" }],
+         "flags": [{ "label": "exkursion", "class": "st-background" }],
          "headline":"Wie verhandelt man ein Zollabkommen?"
       },
       {
@@ -149,17 +143,17 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [{ "label": "exkursion", "class": "" }],
+         "flags": [{ "label": "exkursion", "class": "st-warmGreyBg" }],
          "headline":"Schoolübergreifende Exkursion zur 58. Biennale nach Venedig „May you live in interesting times“"
       },
       {
          "id":"18",
          "url":"#",
-         "theme": "",
+         "theme": "st-blue",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [ { "label": "forschung", "class": "" }],
+         "flags": [ { "label": "forschung", "class": "st-background" }],
          "headline":"Wie sich New Work messen lässt"
       },
       {
@@ -167,7 +161,7 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [{ "label": "vortrag", "class": "" }],
+         "flags": [{ "label": "vortrag", "class": "st-warmGreyBg" }],
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
       },
       {
@@ -177,25 +171,25 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
          "showFlags": "true",
-         "flags": [{ "label": "vortrag", "class": "" }],
+         "flags": [{ "label": "vortrag", "class": "st-warmGreyBg" }],
          "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
       },
       {
          "id":"21",
          "url":"#",
-         "theme": "",
+         "theme": "st-orange",
          "showFlags": "true",
-         "flags": [{ "label": "veröffentlichung", "class": "" }],
+         "flags": [{ "label": "veröffentlichung", "class": "st-background" }],
          "headline":"„Working for the greater good“"
       },
       {
          "id":"22",
          "url":"#",
-         "theme": "",
+         "theme": "st-blue",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [ { "label": "forschung", "class": "" }],
+         "flags": [ { "label": "forschung", "class": "st-background" }],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
       },
       {
@@ -205,7 +199,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
          "showFlags": "true",
-         "flags": [ { "label": "forschung", "class": "" }],
+         "flags": [ { "label": "forschung", "class": "st-warmGreyBg" }],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
       },
       {
@@ -215,7 +209,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [{ "label": "interview", "class": "" }],
+         "flags": [{ "label": "interview", "class": "st-warmGreyBg" }],
          "headline":"David Kaiser erzählt von seinem Praxissemester"
       },
       {
@@ -225,7 +219,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
          "showFlags": "true",
-         "flags": [ { "label": "forschung", "class": "" }],
+         "flags": [ { "label": "forschung", "class": "st-warmGreyBg" }],
          "headline":"Wie Farben unsere Designentscheidungen beeinflussen"
       },
       {
@@ -233,7 +227,7 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [{ "label": "karriere", "class": "" }],
+         "flags": [{ "label": "karriere", "class": "st-warmGreyBg" }],
          "headline":"Warum es sich lohnt, Kunden genau zu kennen und wie Algorithmen dabei helfen können"
       },
       {
@@ -243,7 +237,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [{ "label": "internationales", "class": "" }],
+         "flags": [{ "label": "internationales", "class": "st-warmGreyBg" }],
          "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
       },
       {
@@ -251,22 +245,17 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [{ "label": "internationales", "class": "" }],
+         "flags": [{ "label": "internationales", "class": "st-warmGreyBg" }],
          "headline":"Yale Summer Session 2019 an der school Hochschule Berlin"
       },
       {
          "id":"29",
          "url":"#",
-         "theme": "",
+         "theme": "st-orange",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "karriere",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "karriere", "class": "st-background" }],
          "headline":"Gut vorbereitet für den Berufseinstieg"
       },
       {
@@ -274,12 +263,7 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "studienprojekt",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "studienprojekt", "class": "st-warmGreyBg" }],
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
       }
    ]
