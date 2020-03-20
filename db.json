@@ -22,7 +22,7 @@
          "id": "3",
          "url": "#",
          "theme": "",
-         "showFlags": "false",
+         "showFlags": false,
          "headline": "Go Cyber, go Secure - 1. school Berlin Hackathon"
       },
       {
@@ -31,14 +31,14 @@
          "theme": "",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
-         "showFlags": "false",
+         "showFlags": false,
          "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
       },
       {
          "id":"5",
          "url":"#",
          "theme": "",
-         "showFlags": "false",
+         "showFlags": false,
          "headline":"„Working for the greater good“"
       },
       {
@@ -67,7 +67,7 @@
          "theme": "",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
-         "showFlags": "false",
+         "showFlags": false,
          "headline":"David Kaiser erzählt von seinem Praxissemester"
       },
       {
@@ -84,7 +84,7 @@
          "id":"10",
          "url":"#",
          "theme": "",
-         "showFlags": "false",
+         "showFlags": false,
          "headline":"Warum es sich lohnt, Kunden genau zu kennen und wie Algorithmen dabei helfen können"
       },
       {
@@ -93,14 +93,14 @@
          "theme": "",
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
-         "showFlags": "false",
+         "showFlags": false,
          "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
       },
       {
          "id":"12",
          "url":"#",
          "theme": "",
-         "showFlags": "false",
+         "showFlags": false,
          "headline":"Yale Summer Session 2019 an der school Hochschule Berlin"
       },
       {
@@ -123,7 +123,7 @@
          "id":"14",
          "url":"#",
          "theme": "",
-         "showFlags": "false",
+         "showFlags": false,
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
       },
       {
@@ -253,6 +253,34 @@
          "showFlags": "true",
          "flags": [{ "label": "internationales", "class": "" }],
          "headline":"Yale Summer Session 2019 an der school Hochschule Berlin"
+      },
+      {
+         "id":"29",
+         "url":"#",
+         "theme": "",
+         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
+         "imageFormat5x4": "true",
+         "showFlags": "true",
+         "flags": [
+           {
+             "label": "karriere",
+             "class": ""
+           }
+         ],
+         "headline":"Gut vorbereitet für den Berufseinstieg"
+      },
+      {
+         "id":"30",
+         "url":"#",
+         "theme": "",
+         "showFlags": "true",
+         "flags": [
+           {
+             "label": "studienprojekt",
+             "class": ""
+           }
+         ],
+         "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
       }
    ]
 }
