@@ -6,8 +6,8 @@
          "theme": "",
          "flags": [
            {
-             label: "exkursion",
-             class: ""
+             "label": "exkursion",
+             "class": ""
            }
          ],
          "headline":"Schoolübergreifende Exkursion zur 58. Biennale nach Venedig „May you live in interesting times“"
@@ -20,8 +20,8 @@
          "imageFormat5x4": "true",
          "flags": [
            {
-             label: "forschung",
-             class: ""
+             "label": "forschung",
+             "class": ""
            }
          ],
          "headline":"Wie sich New Work messen lässt"
@@ -57,8 +57,8 @@
          "imageFormat5x4": "true",
          "flags": [
            {
-             label: "forschung",
-             class: ""
+             "label": "forschung",
+             "class": ""
            }
          ],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
@@ -71,8 +71,8 @@
          "imageFormat4x5": "true",
          "flags": [
            {
-             label: "forschung",
-             class: ""
+             "label": "forschung",
+             "class": ""
            }
          ],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
@@ -94,8 +94,8 @@
          "imageFormat5x4": "true",
          "flags": [
            {
-             label: "forschung",
-             class: ""
+             "label": "forschung",
+             "class": ""
            }
          ],
          "headline":"Wie Farben unsere Designentscheidungen beeinflussen"
@@ -132,8 +132,8 @@
          
          "flags": [
            {
-             label: "karriere",
-             class: ""
+             "label": "karriere",
+             "class": ""
            }
          ],
          "headline":"Gut vorbereitet für den Berufseinstieg"
@@ -153,8 +153,8 @@
          "imageFormat4x5": "true",
          "flags": [
            {
-             label: "forschung",
-             class: ""
+             "label": "forschung",
+             "class": ""
            }
          ],
          "headline":"EY meets school"
@@ -165,8 +165,8 @@
          "theme": "",
          "flags": [
            {
-             label: "exkursion",
-             class: ""
+             "label": "exkursion",
+             "class": ""
            }
          ],
          "headline":"Wie verhandelt man ein Zollabkommen?"
@@ -177,8 +177,8 @@
          "theme": "",
          "flags": [
            {
-             label: "exkursion",
-             class: ""
+             "label": "exkursion",
+             "class": ""
            }
          ],
          "headline":"Schoolübergreifende Exkursion zur 58. Biennale nach Venedig „May you live in interesting times“"
@@ -191,8 +191,8 @@
          "imageFormat5x4": "true",
          "flags": [
            {
-             label: "forschung",
-             class: ""
+             "label": "forschung",
+             "class": ""
            }
          ],
          "headline":"Wie sich New Work messen lässt"
@@ -203,8 +203,8 @@
          "theme": "",
          "flags": [
            {
-             label: "vortrag",
-             class: ""
+             "label": "vortrag",
+             "class": ""
            }
          ],
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
@@ -217,8 +217,8 @@
          "imageFormat4x5": "true",
          "flags": [
            {
-             label: "vortrag",
-             class: ""
+             "label": "vortrag",
+             "class": ""
            }
          ],
          "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
@@ -229,8 +229,8 @@
          "theme": "",
          "flags": [
            {
-             label: "veröffentlichung",
-             class: ""
+             "label": "veröffentlichung",
+             "class": ""
            }
          ],
          "headline":"„Working for the greater good“"
@@ -243,8 +243,8 @@
          "imageFormat5x4": "true",
          "flags": [
            {
-             label: "forschung",
-             class: ""
+             "label": "forschung",
+             "class": ""
            }
          ],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
@@ -257,8 +257,8 @@
          "imageFormat4x5": "true",
          "flags": [
            {
-             label: "forschung",
-             class: ""
+             "label": "forschung",
+             "class": ""
            }
          ],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
@@ -271,8 +271,8 @@
          "imageFormat5x4": "true",
          "flags": [
            {
-             label: "interview",
-             class: ""
+             "label": "interview",
+             "class": ""
            }
          ],
          "headline":"David Kaiser erzählt von seinem Praxissemester"
@@ -285,8 +285,8 @@
          "imageFormat4x5": "true",
          "flags": [
            {
-             label: "forschung",
-             class: ""
+             "label": "forschung",
+             "class": ""
            }
          ],
          "headline":"Wie Farben unsere Designentscheidungen beeinflussen"
@@ -297,8 +297,8 @@
          "theme": "",
          "flags": [
            {
-             label: "karriere",
-             class: ""
+             "label": "karriere",
+             "class": ""
            }
          ],
          "headline":"Warum es sich lohnt, Kunden genau zu kennen und wie Algorithmen dabei helfen können"
@@ -311,8 +311,8 @@
          "imageFormat5x4": "true",
          "flags": [
            {
-             label: "internationales",
-             class: ""
+             "label": "internationales",
+             "class": ""
            }
          ],
          "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
@@ -323,8 +323,8 @@
          "theme": "",
          "flags": [
            {
-             label: "internationales",
-             class: ""
+             "label": "internationales",
+             "class": ""
            }
          ],
          "headline":"Yale Summer Session 2019 an der school Hochschule Berlin"
@@ -337,8 +337,8 @@
          "imageFormat5x4": "true",
          "flags": [
            {
-             label: "karriere",
-             class: ""
+             "label": "karriere",
+             "class": ""
            }
          ],
          "headline":"Gut vorbereitet für den Berufseinstieg"
@@ -349,8 +349,8 @@
          "theme": "",
          "flags": [
            {
-             label: "studienprojekt",
-             class: ""
+             "label": "studienprojekt",
+             "class": ""
            }
          ],
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
