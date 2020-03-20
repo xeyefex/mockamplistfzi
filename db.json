@@ -253,34 +253,6 @@
          "showFlags": "true",
          "flags": [{ "label": "internationales", "class": "" }],
          "headline":"Yale Summer Session 2019 an der school Hochschule Berlin"
-      },
-      {
-         "id":"29",
-         "url":"#",
-         "theme": "",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat5x4": "true",
-         "showFlags": "true",
-         "flags": [
-           {
-             "label": "karriere",
-             "class": ""
-           }
-         ],
-         "headline":"Gut vorbereitet für den Berufseinstieg"
-      },
-      {
-         "id":"30",
-         "url":"#",
-         "theme": "",
-         "showFlags": "true",
-         "flags": [
-           {
-             "label": "studienprojekt",
-             "class": ""
-           }
-         ],
-         "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
       }
    ]
 }
