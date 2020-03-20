@@ -5,12 +5,7 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "exkursion",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "exkursion", "class": "" }],
          "headline":"Schoolübergreifende Exkursion zur 58. Biennale nach Venedig „May you live in interesting times“"
       },
       {
@@ -20,12 +15,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "forschung",
-             "class": ""
-           }
-         ],
+         "flags": [ { "label": "forschung", "class": "" }],
          "headline":"Wie sich New Work messen lässt"
       },
       {
@@ -58,12 +48,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "forschung",
-             "class": ""
-           }
-         ],
+         "flags": [ { "label": "forschung", "class": "" }],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
       },
       {
@@ -73,12 +58,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "forschung",
-             "class": ""
-           }
-         ],
+         "flags": [ { "label": "forschung", "class": "" }],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
       },
       {
@@ -97,12 +77,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "forschung",
-             "class": ""
-           }
-         ],
+         "flags": [ { "label": "forschung", "class": "" }],
          "headline":"Wie Farben unsere Designentscheidungen beeinflussen"
       },
       {
@@ -158,12 +133,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "forschung",
-             "class": ""
-           }
-         ],
+         "flags": [ { "label": "forschung", "class": "" }],
          "headline":"EY meets school"
       },
       {
@@ -171,12 +141,7 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "exkursion",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "exkursion", "class": "" }],
          "headline":"Wie verhandelt man ein Zollabkommen?"
       },
       {
@@ -184,12 +149,7 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "exkursion",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "exkursion", "class": "" }],
          "headline":"Schoolübergreifende Exkursion zur 58. Biennale nach Venedig „May you live in interesting times“"
       },
       {
@@ -199,12 +159,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "forschung",
-             "class": ""
-           }
-         ],
+         "flags": [ { "label": "forschung", "class": "" }],
          "headline":"Wie sich New Work messen lässt"
       },
       {
@@ -212,12 +167,7 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "vortrag",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "vortrag", "class": "" }],
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
       },
       {
@@ -227,12 +177,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "vortrag",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "vortrag", "class": "" }],
          "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
       },
       {
@@ -240,12 +185,7 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "veröffentlichung",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "veröffentlichung", "class": "" }],
          "headline":"„Working for the greater good“"
       },
       {
@@ -255,12 +195,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "forschung",
-             "class": ""
-           }
-         ],
+         "flags": [ { "label": "forschung", "class": "" }],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
       },
       {
@@ -270,12 +205,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "forschung",
-             "class": ""
-           }
-         ],
+         "flags": [ { "label": "forschung", "class": "" }],
          "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
       },
       {
@@ -285,12 +215,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "interview",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "interview", "class": "" }],
          "headline":"David Kaiser erzählt von seinem Praxissemester"
       },
       {
@@ -300,12 +225,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat4x5": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "forschung",
-             "class": ""
-           }
-         ],
+         "flags": [ { "label": "forschung", "class": "" }],
          "headline":"Wie Farben unsere Designentscheidungen beeinflussen"
       },
       {
@@ -313,12 +233,7 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "karriere",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "karriere", "class": "" }],
          "headline":"Warum es sich lohnt, Kunden genau zu kennen und wie Algorithmen dabei helfen können"
       },
       {
@@ -328,12 +243,7 @@
          "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
          "imageFormat5x4": "true",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "internationales",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "internationales", "class": "" }],
          "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
       },
       {
@@ -341,12 +251,7 @@
          "url":"#",
          "theme": "",
          "showFlags": "true",
-         "flags": [
-           {
-             "label": "internationales",
-             "class": ""
-           }
-         ],
+         "flags": [{ "label": "internationales", "class": "" }],
          "headline":"Yale Summer Session 2019 an der school Hochschule Berlin"
       },
       {
