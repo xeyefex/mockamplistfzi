@@ -20,7 +20,7 @@
          "id": "3",
          "url": "#",
          "theme": "st-orange",
-         "flags": [{ "label": "allgemein", "class": "st-warmGreyBg" }],
+         "flags": [{ "label": "allgemein", "class": "st-orangeBg" }],
          "headline": "Go Cyber, go Secure - 1. school Berlin Hackathon"
       },
       {
@@ -63,7 +63,7 @@
          "theme": "st-blue",
          "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
          "imageFormat5x4": "true",
-         "flags": [{ "label": "allgemein", "class": "st-warmGreyBg" }],
+         "flags": [{ "label": "allgemein", "class": "st-blueBg" }],
          "headline":"David Kaiser erzählt von seinem Praxissemester"
       },
       {
@@ -79,7 +79,7 @@
          "id":"10",
          "url":"#",
          "theme": "st-orange",
-         "flags": [{ "label": "allgemein", "class": "st-warmGreyBg" }],
+         "flags": [{ "label": "allgemein", "class": "st-orangeBg" }],
          "headline":"Warum es sich lohnt, Kunden genau zu kennen und wie Algorithmen dabei helfen können"
       },
       {
@@ -111,7 +111,7 @@
          "id":"14",
          "url":"#",
          "theme": "st-orange",
-         "flags": [{ "label": "allgemein", "class": "st-warmGreyBg" }],
+         "flags": [{ "label": "allgemein", "class": "st-orangeBg" }],
          "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
       },
       {
