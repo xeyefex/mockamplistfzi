@@ -1,248 +1,196 @@
 {
-   "news":[
+   "departments":[
       {
          "id":"1",
          "url":"#",
-         "theme": "",
-         "flags": [{ "label": "exkursion", "class": "st-warmGreyBg" }],
-         "headline":"Schoolübergreifende Exkursion zur 58. Biennale nach Venedig „May you live in interesting times“"
+         "flags": [{ "label": "Fachabteilung", "class": "st-warmGreyBg" }],
+         "topline": "Klinik für Innere Medizin II:",
+         "headline": "Gastroenterologie, Hämatologie, Onkologie, Nephrologie, Diabetologie",
+         "subtitle": "Teil des Name des Zentrums",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
          "id":"2",
          "url":"#",
-         "theme": "st-blue",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat5x4": "true",
-         "flags": [ { "label": "forschung", "class": "st-background" }],
-         "headline":"Wie sich New Work messen lässt"
+         "flags": [{ "label": "Zentrum", "class": "st-warmGreyBg" }],
+         "topline": "",
+         "headline": "(Zertifiziertes) Darmzentrum der deutschen Krebsgesellschaft Suhl",
+         "subtitle": "",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
          "id": "3",
          "url": "#",
-         "theme": "st-orange",
-         "flags": [{ "label": "allgemein", "class": "st-orangeBg" }],
-         "headline": "Go Cyber, go Secure - 1. school Berlin Hackathon"
+         "flags": [{ "label": "Institut", "class": "st-warmGreyBg" }],
+         "topline": "Klinik für Innere Medizin II:",
+         "headline": "Institut für Physikalische und Rehabilitative Medizin",
+         "subtitle": "Teil des Name des Zentrums",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
          "id":"4",
          "url":"#",
-         "theme": "",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat4x5": "true",
-         "flags": [{ "label": "allgemein", "class": "st-warmGreyBg" }],
-         "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
+         "flags": [{ "label": "Fachabteilung", "class": "st-warmGreyBg" }],
+         "topline": "Klinik für Innere Medizin II:",
+         "headline": "Gastroenterologie, Hämatologie, Onkologie, Nephrologie, Diabetologie",
+         "subtitle": "Teil des Name des Zentrums",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
          "id":"5",
          "url":"#",
-         "theme": "",
-         "flags": [{ "label": "allgemein", "class": "st-warmGreyBg" }],
-         "headline":"„Working for the greater good“"
+         "flags": [{ "label": "Zentrum", "class": "st-warmGreyBg" }],
+         "topline": "",
+         "headline": "(Zertifiziertes) Darmzentrum der deutschen Krebsgesellschaft Suhl",
+         "subtitle": "",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
-         "id":"6",
-         "url":"#",
-         "theme": "",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat5x4": "true",
-         "flags": [ { "label": "forschung", "class": "st-warmGreyBg" }],
-         "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
+         "id": "6",
+         "url": "#",
+         "flags": [{ "label": "Institut", "class": "st-warmGreyBg" }],
+         "topline": "Klinik für Innere Medizin II:",
+         "headline": "Institut für Physikalische und Rehabilitative Medizin",
+         "subtitle": "Teil des Name des Zentrums",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
-      {
+            {
          "id":"7",
          "url":"#",
-         "theme": "st-orange",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat4x5": "true",
-         "flags": [ { "label": "forschung", "class": "st-background" }],
-         "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
+         "flags": [{ "label": "Fachabteilung", "class": "st-warmGreyBg" }],
+         "topline": "Klinik für Innere Medizin II:",
+         "headline": "Gastroenterologie, Hämatologie, Onkologie, Nephrologie, Diabetologie",
+         "subtitle": "Teil des Name des Zentrums",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
          "id":"8",
          "url":"#",
-         "theme": "st-blue",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat5x4": "true",
-         "flags": [{ "label": "allgemein", "class": "st-blueBg" }],
-         "headline":"David Kaiser erzählt von seinem Praxissemester"
+         "flags": [{ "label": "Zentrum", "class": "st-warmGreyBg" }],
+         "topline": "",
+         "headline": "(Zertifiziertes) Darmzentrum der deutschen Krebsgesellschaft Suhl",
+         "subtitle": "",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
-         "id":"9",
-         "url":"#",
-         "theme": "",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat5x4": "true",
-         "flags": [ { "label": "forschung", "class": "st-warmGreyBg" }],
-         "headline":"Wie Farben unsere Designentscheidungen beeinflussen"
+         "id": "9",
+         "url": "#",
+         "flags": [{ "label": "Institut", "class": "st-warmGreyBg" }],
+         "topline": "Klinik für Innere Medizin II:",
+         "headline": "Institut für Physikalische und Rehabilitative Medizin",
+         "subtitle": "Teil des Name des Zentrums",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
-      {
+            {
          "id":"10",
          "url":"#",
-         "theme": "st-orange",
-         "flags": [{ "label": "allgemein", "class": "st-orangeBg" }],
-         "headline":"Warum es sich lohnt, Kunden genau zu kennen und wie Algorithmen dabei helfen können"
+         "flags": [{ "label": "Fachabteilung", "class": "st-warmGreyBg" }],
+         "topline": "Klinik für Innere Medizin II:",
+         "headline": "Gastroenterologie, Hämatologie, Onkologie, Nephrologie, Diabetologie",
+         "subtitle": "Teil des Name des Zentrums",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
          "id":"11",
          "url":"#",
-         "theme": "",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat4x5": "true",
-         "flags": [{ "label": "allgemein", "class": "st-warmGreyBg" }],
-         "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
+         "flags": [{ "label": "Zentrum", "class": "st-warmGreyBg" }],
+         "topline": "",
+         "headline": "(Zertifiziertes) Darmzentrum der deutschen Krebsgesellschaft Suhl",
+         "subtitle": "",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
-         "id":"12",
-         "url":"#",
-         "theme": "",
-         "flags": [{ "label": "allgemein", "class": "st-warmGreyBg" }],
-         "headline":"Yale Summer Session 2019 an der school Hochschule Berlin"
+         "id": "12",
+         "url": "#",
+         "flags": [{ "label": "Institut", "class": "st-warmGreyBg" }],
+         "topline": "Klinik für Innere Medizin II:",
+         "headline": "Institut für Physikalische und Rehabilitative Medizin",
+         "subtitle": "Teil des Name des Zentrums",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
-      {
+            {
          "id":"13",
          "url":"#",
-         "theme": "st-blue",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat5x4": "true",
-         "flags": [{ "label": "karriere", "class": "st-background" }],
-         "headline":"Gut vorbereitet für den Berufseinstieg"
+         "flags": [{ "label": "Fachabteilung", "class": "st-warmGreyBg" }],
+         "topline": "Klinik für Innere Medizin II:",
+         "headline": "Gastroenterologie, Hämatologie, Onkologie, Nephrologie, Diabetologie",
+         "subtitle": "Teil des Name des Zentrums",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
          "id":"14",
          "url":"#",
-         "theme": "st-orange",
-         "flags": [{ "label": "allgemein", "class": "st-orangeBg" }],
-         "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
+         "flags": [{ "label": "Zentrum", "class": "st-warmGreyBg" }],
+         "topline": "",
+         "headline": "(Zertifiziertes) Darmzentrum der deutschen Krebsgesellschaft Suhl",
+         "subtitle": "",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
-         "id":"15",
-         "url":"#",
-         "theme": "",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat4x5": "true",
-         "flags": [ { "label": "forschung", "class": "st-warmGreyBg" }],
-         "headline":"EY meets school"
+         "id": "15",
+         "url": "#",
+         "flags": [{ "label": "Institut", "class": "st-warmGreyBg" }],
+         "topline": "Klinik für Innere Medizin II:",
+         "headline": "Institut für Physikalische und Rehabilitative Medizin",
+         "subtitle": "Teil des Name des Zentrums",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       },
       {
-         "id":"16",
-         "url":"#",
-         "theme": "st-orange",
-         "flags": [{ "label": "exkursion", "class": "st-background" }],
-         "headline":"Wie verhandelt man ein Zollabkommen?"
-      },
-      {
-         "id":"17",
-         "url":"#",
-         "theme": "",
-         "flags": [{ "label": "exkursion", "class": "st-warmGreyBg" }],
-         "headline":"Schoolübergreifende Exkursion zur 58. Biennale nach Venedig „May you live in interesting times“"
-      },
-      {
-         "id":"18",
-         "url":"#",
-         "theme": "st-blue",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat5x4": "true",
-         "flags": [ { "label": "forschung", "class": "st-background" }],
-         "headline":"Wie sich New Work messen lässt"
-      },
-      {
-         "id":"19",
-         "url":"#",
-         "theme": "",
-         "flags": [{ "label": "vortrag", "class": "st-warmGreyBg" }],
-         "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
-      },
-      {
-         "id":"20",
-         "url":"#",
-         "theme": "",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat4x5": "true",
-         "flags": [{ "label": "vortrag", "class": "st-warmGreyBg" }],
-         "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
-      },
-      {
-         "id":"21",
-         "url":"#",
-         "theme": "st-orange",
-         "flags": [{ "label": "veröffentlichung", "class": "st-background" }],
-         "headline":"„Working for the greater good“"
-      },
-      {
-         "id":"22",
-         "url":"#",
-         "theme": "st-blue",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat5x4": "true",
-         "flags": [ { "label": "forschung", "class": "st-background" }],
-         "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
-      },
-      {
-         "id":"23",
-         "url":"#",
-         "theme": "",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat4x5": "true",
-         "flags": [ { "label": "forschung", "class": "st-warmGreyBg" }],
-         "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
-      },
-      {
-         "id":"24",
-         "url":"#",
-         "theme": "",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat5x4": "true",
-         "flags": [{ "label": "interview", "class": "st-warmGreyBg" }],
-         "headline":"David Kaiser erzählt von seinem Praxissemester"
-      },
-      {
-         "id":"25",
-         "url":"#",
-         "theme": "",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat4x5": "true",
-         "flags": [ { "label": "forschung", "class": "st-warmGreyBg" }],
-         "headline":"Wie Farben unsere Designentscheidungen beeinflussen"
-      },
-      {
-         "id":"26",
-         "url":"#",
-         "theme": "",
-         "flags": [{ "label": "karriere", "class": "st-warmGreyBg" }],
-         "headline":"Warum es sich lohnt, Kunden genau zu kennen und wie Algorithmen dabei helfen können"
-      },
-      {
-         "id":"27",
-         "url":"#",
-         "theme": "",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat5x4": "true",
-         "flags": [{ "label": "internationales", "class": "st-warmGreyBg" }],
-         "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
-      },
-      {
-         "id":"28",
-         "url":"#",
-         "theme": "",
-         "flags": [{ "label": "internationales", "class": "st-warmGreyBg" }],
-         "headline":"Yale Summer Session 2019 an der school Hochschule Berlin"
-      },
-      {
-         "id":"29",
-         "url":"#",
-         "theme": "st-orange",
-         "image":"https://dummyimage.com/5:4x500/bbb/333&text=SRH+5:4+x+500",
-         "imageFormat5x4": "true",
-         "flags": [{ "label": "karriere", "class": "st-background" }],
-         "headline":"Gut vorbereitet für den Berufseinstieg"
-      },
-      {
-         "id":"30",
-         "url":"#",
-         "theme": "",
-         "flags": [{ "label": "studienprojekt", "class": "st-warmGreyBg" }],
-         "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
+         "id": "16",
+         "url": "#",
+         "flags": [{ "label": "Institut", "class": "st-warmGreyBg" }],
+         "topline": "Klinik für Innere Medizin II:",
+         "headline": "Institut für Physikalische und Rehabilitative Medizin",
+         "subtitle": "Teil des Name des Zentrums",
+         "category": {
+           "topline": "Themenbereich",
+           "headline": "Kategorie aus Gesundheitslotse"
+         }
       }
    ]
 }
